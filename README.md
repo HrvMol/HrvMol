@@ -2,8 +2,8 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/joxnt/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/joxnt/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/joxnt/joxnt/blob/master/generated/overview.svg)
+![](https://github.com/joxnt/joxnt/blob/master/generated/languages.svg)
 
 </a>
 
