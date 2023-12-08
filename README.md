@@ -9,4 +9,3 @@ Enjoy this future me, I hope my short term fix has not caused you too much pain.
 ![](https://github.com/joxnt/joxnt/blob/master/generated/overview.svg)
 ![](https://github.com/joxnt/joxnt/blob/master/generated/languages.svg)
 
-Joxnt Joxntdev
